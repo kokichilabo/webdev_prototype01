@@ -156,6 +156,11 @@ p {
   line-height: 1.5;
 }
 
+/* Dialogflow Section */
+df-messenger {
+   --df-messenger-button-titlebar-color: #caab83;
+}
+
 /* Footer Section */
 
 #footer {
