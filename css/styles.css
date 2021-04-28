@@ -159,6 +159,7 @@ p {
 /* Dialogflow Section */
 df-messenger {
    --df-messenger-button-titlebar-color: #caab83;
+   --df-messenger-button-titlebar-font-color: #000000;
 }
 
 /* Footer Section */
